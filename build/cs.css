@@ -1,0 +1,90 @@
+.textdiv {
+  position: fixed;
+  cursor: pointer;
+  border: 1px;
+  border-color: white;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+.noborder {
+  border-style: none;
+}
+
+.message {
+  width: max-content;
+  max-width: 500px;
+  display: block;
+  position: relative;
+  min-height: 32px;
+  margin: 3px 0;
+  word-wrap: break-word;
+  overflow: hidden;
+  font-size: 14px;
+  line-height: 21px;
+  word-wrap: break-word;
+  overflow: hidden;
+  font-size: 14px;
+  line-height: 21px;
+  color: #fff;
+  letter-spacing: 0.25px;
+  -webkit-animation-name: fadein__3YqbH;
+  animation-name: fadein__3YqbH;
+  -webkit-animation-duration: 0.15s;
+  animation-duration: 0.15s;
+  -webkit-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  background: #212c3d;
+  display: block;
+}
+
+.avatar {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  border-radius: 50%;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 24px;
+  height: 24px;
+}
+
+.messageContent {
+  padding: 5.5px 5.5px 5.5px 0;
+  margin-left: 36px;
+  margin-right: 8px;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.Username {
+  color: rgb(255, 255, 255);
+  margin-right: 4px;
+  font-weight: 600;
+  word-break: break-all;
+
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.leaderboarddiv {
+  background-color: darkgreen;
+  opacity: 0.4;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  color: white;
+  width: max-content;
+  padding: 5px;
+  text-align: center;
+}
